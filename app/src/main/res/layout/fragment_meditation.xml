@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.MeditationFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/txtBeginners"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Meditation for beginners"
+            android:textSize="26sp"
+            android:textColor="@color/black"
+            android:textAllCaps="true"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center_horizontal"
+            />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="#cfd8dc"
+            android:layout_marginTop="15dp"
+            />
+        <TextView
+            android:id="@+id/txt7steps"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="7 steps to do meditataion"
+            android:textSize="26sp"
+            android:textAllCaps="true"
+            android:textColor="@color/black"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center_horizontal"
+            />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="#cfd8dc"
+            android:layout_marginTop="15dp"
+            />
+        <TextView
+            android:id="@+id/txtAvoidMistakes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Avoid mistakes while \ndoing meditation"
+            android:textSize="26sp"
+            android:textAllCaps="true"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/black"
+            android:layout_gravity="center_horizontal"
+            />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="#cfd8dc"
+            android:layout_marginTop="15dp"
+            />
+
+    </LinearLayout>
+
+</ScrollView>

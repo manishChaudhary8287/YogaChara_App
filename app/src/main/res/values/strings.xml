@@ -1,0 +1,209 @@
+<resources>
+    <string name="app_name">YogaChara App</string>
+    <string name="navOpen">open</string>
+    <string name="navClose">close</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="_5_day_diet_plan_for_weight_loss">( 5-Day Diet Plan for Weight Loss)</string>
+    <string name="veg_diet_plan_for_weight_loss">Veg Diet Plan for Weight Loss</string>
+    <string name="_7_day_diet_plan_for_weight_gain">( 7-Day Diet Plan for Weight Gain)</string>
+    <string name="non_veg_diet_plan_for_weight_gain">Non-Veg Diet Plan for Weight Gain</string>
+    <string name="diet_plan_weight_loss"><b><u>Day 1</u></b>
+ \n * Start your day by drinking cucumber water
+\n * Then for breakfast have 1 bowl of oats porridge with skimmed milk
+\n * Have a bowl of dal, sabzi, and 1 roti or 1 cup of brown rice for lunch
+\n * For dinner fill your plate with a bowl of dal, sabzi, and 1 roti
+\n * To satisfy mid-meal hunger pangs try snacking on fruits, 1 glass of buttermilk, or one bowl of yogurt\n\n\n
+<b><u>Day 2</u></b>
+\n * Start your day with cucumber detox water or one glass of lukewarm water in the morning
+\n * To bring in some variety to your breakfast try consuming a mixed vegetable chilla along with curd (Avoid pickles initially, but you can add pickles to your meal once in a while at a later stage)
+\n * For lunch, have one bowl of palak pulao with dal
+\n * At night, skip the roti and instead increase your intake of vegetables
+\n * You can include paneer and sautéed vegetables in your dinner\n\n\n
+<b><u>Day 3</u></b>
+\n * On the third day, you can skip Indian food and include multigrain brown bread toast and a bowl of fruits in yogurt for your breakfast
+\n * For lunch, introduce sautéed vegetables along with paneer and have 1 small bowl of rice to compliment your carbohydrate requirement
+\n * For dinner, try some panner curry with a bowl of vegetables (You can consume any type of vegetable as per your palate and cravings)
+\n * For snacking, depend on fruits and yogurt or buttermilk\n\n\n
+<b><u>Day 4</u></b>
+\n * On the fourth day, start with a milkshake containing lots of nuts as well as your choice of fruits; you can also have a stuffed omelet with cheese, mushrooms, and onions
+\n * For lunch have a big bowl of urad dal, veggies, and paneer paratha
+\n * For dinner, you can have half a bowl of rice, and for protein include palak chole
+\n * For snacking continue eating fruits, yogurt, or buttermilk\n\n\n
+<b><u>Day 5</u></b>
+\n * Start your day with a glass of low-fat milk and veggie upma for breakfast
+\n * For lunch, you can have a stuffed roti alongside a paneer bhurji with veggies
+\n * For dinner have 1 roti, 1 bowl of dal or yogurt, and 1 sabzi like a beans curry or baingan bharta </string>
+
+    <string name="diet_plan_weight_gain_nonveg">
+        \n<b><u>Monday</u></b>\n
+
+\n*<b>Breakfast</b> - 2 vegetable stuffed parathas, 1 cup curd, handful of nuts
+        \n*<b>Mid-morning</b> – 1 glass lassi or mango shake
+        \n*<b>Lunch</b> – 1 cup dal/ chicken curry, 1 cup seasonal vegetable, 2 chapattis, ½ cup rice, 1 cup salad
+        \n*<b>Evening</b> – 1 glass fresh fruit juice, 2 whole-grain toasts
+\n*<b>Dinner\n*</b> – 1 cup vegetable, 2 chapattis, 1 cup salad
+       \n \n<b><u>Tuesday</u></b>\n
+
+        \n*<b>Breakfast</b> - 2 moong dal chilla (paneer stuffing optional), 1 cup curd, handful of nuts
+        \n*<b>Mid-morning</b> – Fruit smoothie
+        \n*<b>Lunch</b> – 1 cup dal, 2 chapattis, ½ cup rice, 1 cup curd, 1 cup salad
+        \n*<b>Evening</b> – 1 bowl tomato soup, 1 cup aloo chat
+        \n*<b>Dinner</b> – 1 cup seasonal vegetable, 2 chapattis, 1 cup salad
+\n\n<b><u>Wednesday</u></b>\n
+
+\n*<b>Breakfast </b>- 1 cup bread upma, 1 cup milk, handful of nuts
+\n*<b>Mid-morning </b>– 2 bananas
+\n*<b>Lunch </b>– 1 cup lentils, 1 cup vegetables, 2 chapattis, 1 cup salad
+\n*<b>Evening</b> – 1 cup upma, 1 glass vegetable juice
+\n*<b>Dinner </b>– 1 cup vegetable, 2 chapattis, 1 cup salad
+\n\n<b><u>Thursday</u></b>\n
+
+\n*<b>Breakfast </b>- 2 cucumber potato sandwiches, 1 cup orange juice, handful of nuts
+\n*<b>Mid-morning </b>– 1 cup sweet potato chaat, 1 glass buttermilk
+\n*<b>Lunch</b> – 1 cup lentils/ chicken or fish curry, 2 cups rice, 1 cup salad
+\n*<b>Evening </b>– Milk smoothie, 2 bananas
+\n*<b>Dinner </b>– 1 cup seasonal vegetable, 2 chapattis, 1 cup salad
+\n\n<b><u>Friday</u></b>\n
+
+\n*<b>Breakfast</b> - 1 cup vegetable poha, 1 cup curd, handful of nuts
+\n*<b>Mid-morning</b> – 1 glass fresh fruit juice
+\n*<b>Lunch </b>– 1 cup dal, 1 cup vegetable, 2 chapattis, ½ cup rice, 1 cup salad
+\n*<b>Evening</b> – 2 besan chilla, 1 cup sprouts salad
+\n*<b>Dinner</b> – 1 cup vegetable/ chicken curry, 2 chapattis, 1 cup salad
+\n\n<b><u>Saturday</u></b>\n
+
+        \n*<b>Breakfast</b> - 2 suji chilla, 1 glass strawberry shake, handful of nuts
+        \n*<b>Mid-morning</b> – 1 glass coconut water, 1 cup fruit
+        \n*<b>Lunch</b> – 1 cup dal, 1 cup vegetable/ tofu/ paneer curry, ½ cup rice, 2 chapattis, 1 cup salad
+        \n*<b>Evening</b> – 1 cup fruit salad, 4 -5 vegetable cutlets
+        \n*<b>Dinner</b> – 2 chapattis, 1 cup vegetable/ chicken/ fish curry, 1 cup salad
+\n\n<b><u>Sunday</u></b>\n
+
+        \n*<b>Breakfast</b> - 2 eggs, 2 whole-grain bread slices, 1 cup milk, handful of nuts
+        \n*<b>Mid-morning</b> – 1 glass banana smoothie
+        \n*<b>Lunch</b> – 1 cup dal, 1 cup vegetable curry, 2 chapattis, ½ cup rice, 1 cup salad
+        \n*<b>Evening</b> – 1 glass strawberry smoothie, 1 cup vegetable poha
+        \n*<b>Dinner</b> – 1 cup chicken curry, 2 chapattis, 1 cup salad
+
+    </string>
+    <string name="veg_diet_plan_for_weight_gain">Veg Diet Plan for Weight Gain</string>
+    <string name="diet_plan_weight_gain_veg">
+       \n\n<b><u>EARLY MORNING( 5:00 a.m. To 6:00 a.m. )   </u></b> \n
+Dalia (Without Sugar)20-50 gms.
+Black (Sprouted) grams
+Almonds (5 to 10 piece)
+Half Glass of Skimmed Milk (Without Sugar)
+\n\n<b><u>BREAKFAST(7:00 a.m. to 9:00 a.m.)</u></b>\n
+1 Glass of Non Fat Milk,
+1-2 Bananas / 2-3 Food Supplement (+ or) 1-2 slices Toast with White butter/vegetable, cheese, sandwich (+ or) 1-2 Parantha with white butter/curd prepared from (Non-Fat) milk or corn flakes.
+\n\n<b><u>AFTERNOON(11:00 a.m. to 12:00 p.m. )   </u></b> \n
+1 Glass of fresh juice (No Salt) (or) 2 Boiled potatoes with salad.
+\n\n<b><u>LUNCH(2:00 p.m to 3:00 p.m.)</u></b>\n
+Dal (or) sabzi (Boiled and prepared in refined oil or olive oil)(+) Green Salad(+) 1 Bowl of Curd/Raita (Non Fat Milk)2-3 Chapatis of 1 Plate Brown Rice(+) Vitamin B-Complex.
+After 15 to 30 Mins Plain water as per your capacity.
+\n\n<b><u>EVENING(5:00 p.m. to 6:00 p.m.)  </u></b>\n
+1 Glass of Juice/Shake/Soup (+) 1-2 Bananas/1-2 Boiled Potatoes/25-50 grams if Raw Cheese with Salad.
+\n\n<b><u>DINNER </u></b> \n
+Same as Lunch + (Soyabean, Raw Cheese, Green Veg., Non Veg.)
+(Don’t ad B-complex)
+After 15 to 30 Mins,Plain water as per capacity + 5 Mins Walking.
+\n\n<b><u>Before Sleeping</u></b>\n
+½, Glass of Skimmed milk (Food Supplement- 1-2 spoons)
+    </string>
+
+    <string name="non_veg_diet_plan_for_weight_loss">Non-Veg Diet Plan for Weight Loss</string>
+    <string name="_7_day_diet_plan_for_weight_loss">( 7-Day Diet Plan for Weight Loss)</string>
+    <string name="diet_plan_weight_loss_non_Veg">
+        \n\n<b><u>Day 1 </u></b>\n
+<b>* Breakfast : </b>\n
+Egg white omelette with a toast \n
+Upma\n
+Snack: Any fruit of choice\n
+<b>* Lunch : </b>\n
+Grilled chicken Salad\n
+Grilled Paneer Salad\n
+Snack: A glass of coconut water\n
+<b>* Dinner : </b>\n
+Chicken Veggie Rice\n
+Veggie Quinoa Paneer\n
+\n\n<b><u>Day 2 </u></b>\n
+<b>* Breakfast : </b>\n
+Overnight Oats\n
+Daliya\n
+Snack:  Greek Yogurt with Berries\n
+<b>* Lunch : </b>\n
+Veggie Sprouts Rice\n
+Chicken Kebabs\n
+Snack: Carrot Sticks with Hummus\n
+<b>* Dinner : </b>\n
+Grilled Chicken with Salad\n
+Soup with Grilled paneer\n
+\n\n<b><u>Day 3 </u></b>\n
+<b>* Breakfast : </b>\n
+Chicken Sandwich\n
+Poha\n
+Snack: Pistachios\n
+<b>* Lunch : </b>\n
+Chinese Fried Quinoa\n
+Veg Kebabs\n
+Snack: Greek Yogurt with Almonds\n
+<b>* Dinner : </b>\n:
+A bowl of soup\n
+Roti and Scrambled Paneer\n
+\n\n<b><u>Day 4</u></b>\n
+<b>* Breakfast : </b>\n
+Potato omelette\n
+Stuffed Paneer Roti\n
+Snack: Vegetable juice\n
+<b>* Lunch : </b>\n
+Rajma Rice\n
+Egg curry rice\n
+Snack: Roasted Makhana\n
+<b>* Dinner : </b>\n
+A bowl of soup and Boiled Eggs\n
+Roti and Seasonal sabzi\n
+\n\n<b><u>Day 5</u></b>\n
+<b>* Breakfast : </b>\n
+Oats Omelette\n
+Dosa with Sambar\n
+Snack: Chia Seed Detox Water\n
+<b>* Lunch : </b>\n
+Chickpea salad\n
+Fish curry rice\n
+Snack: Apple with Peanut Butter\n
+<b>* Dinner : </b>\n:
+Chicken Salad\n
+Soup and Grilled Paneer\n
+\n\n<b><u>Day 6</u></b>\n
+<b>* Breakfast : </b>\n
+Toast with hummus and boiled eggs\n
+Idli with Sambar\n
+Snack: 1 Fruit of choice\n
+<b>* Lunch : </b>\n
+Oats Tikki with Greek yogurt\n
+Kadi Rice\n
+Snack: Green Tea with oats cookie\n
+<b>* Dinner : </b>\n
+Egg Salad\n
+Dal Khichdi\n
+\n\n<b><u>Day 7</u></b>\n
+<b>* Breakfast : </b>\n
+Toast with Egg white Omelette\n
+Baked Potato\n
+Snack: 1 Fruit of choice\n
+<b>* Lunch : </b>\n
+Mixed Bean Salad\n
+Quinoa Egg bowl\n
+Snack: Green Tea with oats cookie\n
+<b>* Dinner : </b>\n
+Soup with paneer and stir fry veggies\n
+Curd Rice\n
+    </string>
+    <string name="hist">Yogachara (Sanskrit: योगाचार, IAST: Yogācāra; literally "yoga practice"; "one whose practice is yoga") is an influential tradition of Buddhist philosophy and psychology emphasizing the study of cognition, perception, and consciousness through the interior lens of meditative and yogic practices. Yogachara was one of the two most influential traditions of Mahayana Buddhism in India, the other being Madhyamaka.\n\n
+
+Yogācāra is also variously termed Vijñānavāda (the doctrine of consciousness), Vijñaptivāda (the doctrine of ideas or percepts) or Vijñaptimātratā-vāda (the doctrine of \'mere representation\'), which is also the name given to its major epistemic theory. There are several interpretations of this main theory: various forms of Idealism, as well as a phenomenology or representationalism, aimed at deconstructing the reification of our perceptions.\n\n
+
+According to Dan Lusthaus, this tradition developed "an elaborate psychological therapeutic system that mapped out the problems in cognition along with the antidotes to correct them, and an earnest epistemological endeavor that led to some of the most sophisticated work on perception and logic ever engaged in by Buddhists or Indians."\n\n
+
+While Yogācāra was mainly associated with Indian Mahayana Buddhism from about the fourth century CE onwards, it also included non-Mahayana practitioners of the Sautrāntika school. The 4th-century Gandharan brothers, Asaṅga and Vasubandhu, are considered the classic philosophers and systematizers of this school, along with the figure of Maitreya. Yogācāra continues to be influential in Tibetan Buddhism and East Asian Buddhism. However, the uniformity of a single assumed "Yogācāra school" has been put into question.</string>
+</resources>

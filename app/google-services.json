@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "285815397318",
+    "project_id": "yogachara-app",
+    "storage_bucket": "yogachara-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285815397318:android:5ec040a0472f971ca4b0c7",
+        "android_client_info": {
+          "package_name": "com.manish.yogacharaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA58iUeSvx-BWmDJkvyUyBhQsXOVqZBxq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
